@@ -13,7 +13,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone [https://github.com/your-username/my-awesome-shop.git]
+git clone[(https://github.com/asm2212/eco-react-tail.git)]
 Install dependencies:
 
 bash
