@@ -22,7 +22,7 @@ const Banner = () => {
           </div>
           <div className='flex flex-col justify-center gap-6 sm:pt-0' data-aos='fade-left'>
             <h1 className='text-3xl sm:text-4xl font-bold'>
-              Winter Sale: Up to 50% Off
+              Sale: Up to 50% Off
             </h1>
             <p className='text-sm text-gray-500 tracking-wide leading-5'>
               Upgrade your winter wardrobe with our exclusive sale! From cozy
