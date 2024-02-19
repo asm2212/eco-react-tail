@@ -7,6 +7,7 @@ import "aos/dist/aos.css";
 import TopPro from './components/TopPro/TopPro'
 import Banner from './components/Banner/Banner'
 import Subscribe from './components/Subscribe/Subscribe'
+import Footer from './components/Footer/Footer'
 
 const App = () => {
 
@@ -27,6 +28,7 @@ const App = () => {
       <TopPro />
       <Banner />
       <Subscribe />
+      <Footer />
     </div>
   )
 }
