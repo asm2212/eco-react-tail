@@ -14,10 +14,23 @@ Tailwind, React.js
 Clone the repository:
 
 cd eco-react-tail
+
+npm create vite@latest my-react-app -- --template react
+or
+yarn create vite my-react-app --template react
+
+npm i
+react-icons
+aos
+react-slick
+slick-carousel
+
+##  Start Development Server:
+
 npm run dev
 
 ##  Contributing
 We welcome contributions from the community! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
 
-License
+##  License
 This project is licensed under the MIT License - see the LICENSE file for details.
